@@ -1,4 +1,5 @@
 # LogIoT
+[![caratula.png](https://i.postimg.cc/XqmB3kzj/caratula.png)](https://postimg.cc/XBKYkdWm)
 
 ------------
 
@@ -68,3 +69,4 @@ Publisher → Mosquitto → Telegraf (comentado) → InfluxDB
 -----------
 
 ### Arquitectura de red:
+[![arquitectura.png](https://i.postimg.cc/HnZ4MMvy/arquitectura.png)](https://postimg.cc/YLFWKvHr)
