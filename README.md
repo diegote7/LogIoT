@@ -1,5 +1,5 @@
 # LogIoT
-[![caratula.png](https://i.postimg.cc/XqmB3kzj/caratula.png)](https://postimg.cc/XBKYkdWm)
+[![Chat-GPT-Image-10-mar-2026-23-26-01.png](https://i.postimg.cc/SsmdQdJ3/Chat-GPT-Image-10-mar-2026-23-26-01.png)](https://postimg.cc/2qXh24d7)
 
 ------------
 
@@ -50,6 +50,8 @@ EL proyecto consta del dispositivo enbebido con su sistema de sensores y comunic
 
 
 -----------
+
+[![Arquit-Comun.png](https://i.postimg.cc/4Nj1HsYH/Arquit-Comun.png)](https://postimg.cc/QHk7RLkj)
 
 ### Flujos de Datos
 
